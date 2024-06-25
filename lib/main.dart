@@ -109,7 +109,7 @@ class Home extends StatelessWidget {
                                   width: 20,
                                 ),
                                 Text(
-                                  "kondewarash@gmail.com",
+                                  "Ambernath",
                                   style: TextStyle(
                                       fontSize: 15,
                                       fontFamily: 'PlaywriteNGModern',
@@ -131,7 +131,7 @@ class Home extends StatelessWidget {
                                   width: 20,
                                 ),
                                 Text(
-                                  "9921482368",
+                                  "kondewarash@gmail.com",
                                   style: TextStyle(
                                       fontSize: 15,
                                       fontFamily: 'PlaywriteNGModern',
@@ -150,7 +150,7 @@ class Home extends StatelessWidget {
                                   width: 20,
                                 ),
                                 Text(
-                                  "Value",
+                                  "9921482368",
                                   style: TextStyle(
                                       fontSize: 15,
                                       fontFamily: 'PlaywriteNGModern',
